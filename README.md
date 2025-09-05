@@ -48,10 +48,3 @@ The project uses a **relational database** with the following tables:
 - Gamified approach makes learning fun and engaging
 
 ---
-
-## 6. Getting Started
-1. Clone this repository:  
-```bash
-git clone <your-repo-link>
-# PROJETO-RECICLITO
-Reciclito – Gamified Environmental Education
